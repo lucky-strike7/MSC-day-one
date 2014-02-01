@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: georgia;
+  font-size: 20px;
+  line-height: 1.5;
+}
+header {
+  background: url(imgs/talking-heads.jpg);
+   background-size: cover;
+}
+header h1 {
+  height: 400px;
+  line-height: 400px;
+  color: white;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 700%;
+  text-align: center;
+  text-shadow: 0 0 2px black;
+}
+section,
+aside {
+  width: 65%;
+  margin: 2em auto;
+}
